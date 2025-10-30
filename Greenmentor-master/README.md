@@ -37,14 +37,3 @@ The Keep My-Notes Platform is a user-friendly note-taking and organization tool 
 
 7. **Logout:**
    - Click on "Logout" when done using the platform to secure your account.
-
-## Contribution
-
-Feel free to contribute to the development of the Keep My-Notes Platform by following our [Contribution Guidelines](CONTRIBUTING.md).
-
-## License
-
-This project is licensed under the [MIT License](LICENSE). 
-## Contact # harshit0075 for any query
-
-Happy note-taking! 📝
