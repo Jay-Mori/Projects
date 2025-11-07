@@ -40,3 +40,9 @@ Other Tools: dotenv, bcrypt, method-override, cookie-parser
 🔐 Advanced authentication systems (OAuth, 2FA)
 
 🧠 Mini clones & SaaS-style apps
+
+
+💬 Connect With Me
+
+📧 **Email: jaymori2217x@gmail.com 
+💼 **LinkedIn:- https://www.linkedin.com/in/jay-mori06/
