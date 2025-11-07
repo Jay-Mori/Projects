@@ -1,0 +1,7 @@
+<%- include('partials/navbar') %>
+<form action="/recipes/new" method="POST">
+  <input name="title" placeholder="Title" required>
+  <textarea name="description" placeholder="Description"></textarea>
+  <textarea name="ingredients" placeholder="Ingredients"></textarea>
+  <button>Submit</button>
+</form>
