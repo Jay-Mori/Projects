@@ -29,3 +29,14 @@ Authentication: JWT & Cookies
 Frontend (where used): EJS / React
 
 Other Tools: dotenv, bcrypt, method-override, cookie-parser
+
+
+🌱 Future Additions
+
+📦 REST API projects
+
+🌐 React frontends integrated with backend APIs
+
+🔐 Advanced authentication systems (OAuth, 2FA)
+
+🧠 Mini clones & SaaS-style apps
