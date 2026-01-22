@@ -1,12 +1,10 @@
 
  ## Step to Start Project
   
-**For Backend**
- 1. `git clone https://github.com/MohitSojitra/e-commerce-store.git`
- 2. `cd e-comerce-backend`
- 3. `npm i`
- 4. `npm run data:import`
- 5. `npm run dev`
+**For Backend*
+ 1. `npm i`
+ 2. `npm run data:import`
+ 3. `npm run dev`
 
 **For Frontend**
 
